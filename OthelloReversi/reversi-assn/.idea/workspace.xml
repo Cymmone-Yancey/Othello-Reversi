@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jlebar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="306a5705-a40a-45ca-b60b-20fd81a16bc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="reversi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PhUKQv0Uo3az0yVeVlNu5rR5zU" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.hamptonu.csc191.reversi" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="edu.hamptonu.csc191.reversi.Location" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.hamptonu.csc191.reversi.demo" />
+      <recent name="edu.hamptonu.csc191.reversi.jlebar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.hamptonu.csc191.reversi.Cymmone_Yancey" />
+      <recent name="edu.hamptonu.csc191.reversi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RENAME_TO_YOUR_NAME/src/edu/hamptonu/csc191/reversi/RENAME_TO_YOUR_NAME" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cymmo\Downloads\Assn 10_ Othello Starter Code\reversi-assn\Cymmone_Yancey\src\edu\hamptonu\csc191\reversi\Cymmone_Yancey" />
+      <recent name="C:\Users\cymmo\Downloads\Assn 10_ Othello Starter Code\reversi-assn\Cymmone_Yancey" />
+      <recent name="$PROJECT_DIR$/jlebar-reversi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConsoleDriver">
+    <configuration name="ConsoleDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hamptonu.csc191.reversi.ConsoleDriver" />
+      <module name="reversi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hamptonu.csc191.reversi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hamptonu.csc191.reversi.ConsoleDriver" />
+      <module name="reversi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hamptonu.csc191.reversi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in reversi" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameStateFullGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cymmone_Yancey" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey" />
+      <option name="MAIN_CLASS_NAME" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey.GameStateFullGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameStateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cymmone_Yancey" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey" />
+      <option name="MAIN_CLASS_NAME" value="edu.hamptonu.csc191.reversi.Cymmone_Yancey.GameStateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[engine:junit-jupiter]/[class:edu.hamptonu.csc191.reversi.LocationTest]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hamptonu.csc191.reversi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hamptonu.csc191.reversi" />
+      <option name="MAIN_CLASS_NAME" value="edu.hamptonu.csc191.reversi.LocationTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.hamptonu.csc191.reversi.LocationTest]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsoleDriver" />
+      <item itemvalue="JUnit.All in reversi" />
+      <item itemvalue="JUnit.[engine:junit-jupiter]/[class:edu.hamptonu.csc191.reversi.LocationTest]" />
+      <item itemvalue="JUnit.GameStateTest" />
+      <item itemvalue="JUnit.GameStateFullGameTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsoleDriver" />
+        <item itemvalue="Application.ConsoleDriver" />
+        <item itemvalue="JUnit.GameStateFullGameTest" />
+        <item itemvalue="JUnit.GameStateTest" />
+        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:edu.hamptonu.csc191.reversi.LocationTest]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306a5705-a40a-45ca-b60b-20fd81a16bc7" name="Default Changelist" comment="" />
+      <created>1566325758122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566325758122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/base/src/edu/hamptonu/csc191/reversi/Location.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
